@@ -1,3 +1,10 @@
+.heading {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+}
+
 .main {
     margin: 0;
     padding: 0;
